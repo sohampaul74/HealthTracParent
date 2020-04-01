@@ -11,6 +11,11 @@
   <packaging>pom</packaging>
   <name>HealthTrackAggregator</name>
   <description>This is an aggregator project for HealthTrac</description>
+
+	<properties>
+		<java.version>1.8</java.version>
+	</properties>
+
   <modules>
   	<module>health-trac-producer</module>
   </modules>

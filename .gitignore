@@ -10,3 +10,17 @@
 /health-trac-producer/target/classes/META-INF/MANIFEST.MF
 /health-trac-producer/target/classes/META-INF/maven/app.survey/health-trac-producer/pom.properties
 /health-trac-producer/target/classes/META-INF/maven/app.survey/health-trac-producer/pom.xml
+/health-trac-producer/.settings/org.springframework.ide.eclipse.prefs
+/health-trac-producer/target/classes/app/survey/healthtrac/HealthTracBootApplication.class
+/health-trac-producer/target/classes/app/survey/healthtrac/controller/HealthTracController.class
+/health-trac-producer/target/classes/app/survey/healthtrac/domain/CoreCountry.class
+/health-trac-producer/target/classes/app/survey/healthtrac/domain/CoreHealth.class
+/health-trac-producer/target/classes/app/survey/healthtrac/exception/ApplicationException.class
+/health-trac-producer/target/classes/app/survey/healthtrac/model/FormHealthStatus.class
+/health-trac-producer/target/classes/app/survey/healthtrac/model/OutHealthStatus.class
+/health-trac-producer/target/classes/app/survey/healthtrac/service/HealthTracService.class
+/health-trac-producer/target/classes/app/survey/healthtrac/util/AppResponse.class
+/health-trac-producer/target/classes/app/survey/healthtrac/util/MessageConstants.class
+/health-trac-producer/target/classes/app/survey/healthtrac/util/SearchByEnum.class
+/health-trac-producer/target/classes/app/survey/healthtrac/util/UrlMapping.class
+/health-trac-producer/target/classes/app/survey/healthtrac/util/ValidatorUtils.class
