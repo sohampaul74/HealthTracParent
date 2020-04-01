@@ -1,0 +1,12 @@
+/.project
+/.settings/org.eclipse.core.resources.prefs
+/.settings/org.eclipse.m2e.core.prefs
+/health-trac-producer/.classpath
+/health-trac-producer/.project
+/health-trac-producer/.settings/org.eclipse.core.resources.prefs
+/health-trac-producer/.settings/org.eclipse.jdt.apt.core.prefs
+/health-trac-producer/.settings/org.eclipse.jdt.core.prefs
+/health-trac-producer/.settings/org.eclipse.m2e.core.prefs
+/health-trac-producer/target/classes/META-INF/MANIFEST.MF
+/health-trac-producer/target/classes/META-INF/maven/app.survey/health-trac-producer/pom.properties
+/health-trac-producer/target/classes/META-INF/maven/app.survey/health-trac-producer/pom.xml
